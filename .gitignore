@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+.env
+
+# VS Code
+.vscode/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
+
+# Credentials and tokens
+credentials/credentials.json
+credentials/token.json
+credentials/state.json
+
+# Local logs
+logs/
