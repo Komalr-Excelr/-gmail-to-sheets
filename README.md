@@ -1,3 +1,8 @@
+
+
+Name : Komal Ravindra Raut.
+
+
 # Gmail to Google Sheets (Python)
 
 Reads unread Gmail messages and appends Sender, Subject, Date, and Body as new rows in a Google Sheet. After logging, emails are marked as read. State is stored locally to avoid duplicates across runs.
